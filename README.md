@@ -1,0 +1,2 @@
+## IPSpy
+IPSpy is a lightweight IP reputation tool that utilizes Shodan, VirusTotal, and NIST to compile information about given IPv4 addresses. Location data is also provided through OpenStreetMap. The module generates a default configuration json file that can be modified to create severity rules for catagorizing the given threat of any address based on the pulled data. Integrations with other IP reputation tools will occur in the future (VT wants to kill my wallet T.T)
